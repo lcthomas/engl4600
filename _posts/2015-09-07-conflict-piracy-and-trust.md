@@ -1,0 +1,24 @@
+---
+id: 200
+title: Conflict, Piracy and Trust
+date: 2015-09-07T14:57:23+00:00
+author: hannahs
+layout: post
+guid: http://lindsaythomas.net/engl4600/?p=200
+permalink: /2015/09/07/conflict-piracy-and-trust/
+categories:
+  - Response 2
+---
+Adrian Johns’ _The Book of Nature and the Nature of the Book_ spends most of the introduction discrediting Eisenstein’s arguments of the production of “standardization, dissemination, and fixity” through print culture by examining two political/scientific figures, Tycho Brahe and Galileo. Johns’ own argument is for the development of print culture specifically as a political instrument, used to bring about personal identity changes for the benefit of the ‘author,’ as well as all those connected to the authorial process.
+
+The use of texts as political instruments is Johns’ first major point. Johns illustrates this point through contrasting the examples of Tycho Brahe and Galileo, and their varying degrees of successful authorial control over their texts. Galileo’s rise to power from a “mathematical practitioner…into court philosopher” came about as a direct result of distribution of _Siderus Nuncius_ to powerful figures like “princes and cardinals” (24). The value of his work was not in the “intrinsic value of [his] observations,” but rather, in the formation of “a new kind of authority…for natural knowledge” in the “construction of [a] persona” (24).
+
+The construction of specific personas through printing is a second major point of Johns’. In reference to the rise of Galileo, Johns claims “books were key elements in any strategy” (25). In maintaining power, political scientist/philosophers like Galileo were continually challenged by “other court philosophers of sufficient rank,” which were “imperative to show that one’s status was being recognized” (25). Keeping status as an author meant maintaining “trust, order, and propriety,” a function that extended to book printers and sellers, as well. In an age when piracy abounded, trust in a printed text was based on an authors “gentility and…royal favor” (39), while trust for booksellers and printers depended on their “fluidity of social identity” to prevent awareness of their role in the authorial process (37).
+
+The final important point is the role of ‘piracy’ in the evolution and proliferation of print culture. Johns’ argument for a view of the printed book as “a nexus conjoining a wide range of worlds of work” entails a necessary and continual evolution and transformation of texts, across times and cultures; one way this is accomplished is by the “loss of control induced by piracy” (3-4). In Johns’ version of print culture, a loss of control was akin to a loss of _political_ control, and therefore acts of ‘piracy’ were most often accused based on the pirate’s and author’s “credibility,” and had “economic and cultural” implications (32). Far from being an exception to the rule, Johns argues that piracy was necessary for the development of print culture.
+
+I admit I was slightly confused by the discussion of piracy and conflict. I thought Johns was in favor of piracy, based on his description of it early in the chapter—later, however, he explains how piracy could “unauthorized” authors and threaten credibility to both the authors and their ideas, and that the consequences of such piracy could be “nothing short of devastating” (33). Devastating to _what?_ To _who?_ It felt like he was trying to take a moralistic high ground, but I failed to notice what that high ground was.
+
+Second, on a related note, the role of _conflict_ in the reproduction and future life of texts was unclear. “The historian…depends on ‘calamities’ for the preservation and revelation of information” (33), but only _certain types_ of information from _certain perspectives_: the perspectives of the winners of said calamities_._ Johns then writes “this volume is…concerned to use such testimony to display the commonplace and unremarkable…” How does Johns propose to do that if no records of the ‘unremarkable’ were kept?
+
+The issues of piracy and conflict seems intertwined with ideas of trust in authorship. If we believe Johns, readers “trust…a book on the basis of an evaluation of a person.” In that case, we trust the _winners_ of historical conflicts, those not accused of piracy, and ignore marginalized groups. Why, today, do we (in a scholarly setting) distrust “non-scholarly” sources, so much as to refuse to use their arguments in our ‘academic’ essays and discussions? What perspectives are we losing by accrediting supposed ‘peer-reviewed’ sources to the exclusion of all others?

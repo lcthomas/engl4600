@@ -1,0 +1,26 @@
+---
+id: 540
+title: Between Hardware and Human
+date: 2015-11-03T10:06:35+00:00
+author: karens
+layout: post
+guid: http://lindsaythomas.net/engl4600/?p=540
+permalink: /2015/11/03/between-hardware-and-human/
+categories:
+  - Response 10
+---
+Andrea Laue, “How the Computer Works”
+
+Back home in Pennsylvania, we have the Hershey’s Chocolate World ride where you experience what goes on in the actual Chocolate Factory, since the one at Hershey Park is a replica.  You sit in a giant Hershey kiss, and get a tour through every stage of the chocolate bar-making process, all the while listening to three cows singing the “Hershey’s Milk Chocolate” song.  (Where is she going with this, you wonder.)  I’m reminded of this ride when reading Laue’s article, where Laue takes us through the inner workings of a computer.  She focuses on the argument that we first started discussing at the beginning of the semester: that it is not enough to examine a technology in order to understand it.  Its context is equally as important, and contributes to a complete understanding of the technology.  In this section, Laue specifically studies five hardware components in order to make this argument.
+
+She opens with the keyboard and control system.  Our fingertips send signals through the computer so it can read the letters as we type.  The computer reads by electricity—“with charge and without charge” (147).  The electricity passes through the control or processing system—the motherboard!  Data is sent through electricity at “speeds greater than 1 GHz” (148).  Both the keyboard and control relate to our understanding of “digital” as a discrete process.  When we type or read the screen, we’re not seeing all of this reading and processing as it happens.  In fact, we don’t see it at all.  It happens so quickly that we’re forced to interact with the technology as an abstract experience, rather than as a complex and complete one.
+
+Additionally, Laue explains the storage of computers, particularly RAM and hard drives.  In this section is one of the few instances where Laue explicitly states a connection between hardware and human.  She uses the word “human” here when explaining the size of gaps between hard drives: “Hard drives contain a collection of platters and heads arranged so that the gaps between them are smaller than a human hair” (149).  This is only an analogy, but we can read this in a way that reminds us that the context of all this computer jargon is just as important as the hardware and its mechanical functions.  Digital cultures are abstract and in many ways technical; however, humans still play a vital role because they invent and use the technologies in these cultures.
+
+Finally, Laue describes computers’ output and especially focuses on modems.  These components identify a shift in digital cultures because they combine both digital and analogue means: “The modem…is a point of union, of conversion between the digital and the analogue, between new and (relatively) old technologies of communication” (150).  Computers work on a digital system, but information like the “Hi!” email greeting needs to be sent through the phone line, which runs on an analogue system.  Modems can be slow because the information needs to change from digital to analogue.
+
+All of this hardware seems to run on its own, especially because it works discretely on a digital system.  Yet in this first section, Laue begins to argue that each part is valueless unless we take into account the ones who built it, programmed it, and who now use it.  Laue questions how hard drives are constantly “keeping track of where files are stored and not inadvertently overwriting important data” (150).  She  addresses what has always perplexed me: how can computers (or iPads, tablets, or phones, for that matter) function “on its own” like this?  The machine seems to think by itself.  Asking this makes me realize the same contradiction Laue argues—that while it may seem like the technology functions on its own, it does not.  It is necessary to consider how the computer came to seemingly think by itself.  We know it was programmed that way, and Laue implies that this human work on the computer is just as important as focusing solely on the tasks the computer can complete.
+
+Additionally confusing: all of this technical language.  We’re in this realm of abstract, digital experiences with the technology, and stepping back from just focusing on the technology itself.  But an added hurdle here is that in order to understand how technologies function within historical contexts, we sometimes first have to break it down to examine its mechanical parts.  When we do that, I end up googly-eyed and thinking of Chocolate World.
+
+In the final section of this reading Laue states, “you really do not need to understand how a computer works to use a computer” (151).  We know this.  However, what does this imply about where we’re at right now in understanding digital cultures?  We so often use the technology, but many of us really have no clue as to how it works.  What are we missing by not knowing this?

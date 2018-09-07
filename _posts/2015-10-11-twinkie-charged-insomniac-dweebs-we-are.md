@@ -1,0 +1,26 @@
+---
+id: 402
+title: Twinkie-charged insomniac dweebs, we are
+date: 2015-10-11T21:04:55+00:00
+author: karens
+layout: post
+guid: http://lindsaythomas.net/engl4600/?p=402
+permalink: /2015/10/11/twinkie-charged-insomniac-dweebs-we-are/
+categories:
+  - Response 7
+---
+Priscilla Coit Murphy, “Books Are Dead, Long Live Books”
+
+Murphy argues for the full function of books in American society, and she challenges the notion that as new media develop, books will disappear. She first provides instances in history of when it seemed as though a new medium would replace printed works. Then, she explains three assumptions of what future books will be like. Through this explanation, she argues that these assumptions demonstrate books’ functions—they are “intricately interrelated to the rest of the media system” (9). Essentially, books cannot be replaced or extinguished from society.
+
+There are two parts to Murphy’s argument, the first being times in history when individuals thought the book would disappear. She uses the example of _Scribner’s_ magazine author Octave Uzanne and his prediction that the phonograph would replace the value of printed works: “For him, the reproduction of sound heralded the end of print mediation between author and audience” (1). Murphy argues that Uzanne was correct in believing the new medium would alter the relationship between author and audience, but he was mistaken in claiming that it would end it.
+
+As new technologies like film and radio developed in the earlier twentieth century, Americans were first afraid that books would disappear. Then, they feared that these media developments would mean even the act of reading would disappear—that watching tv would replace reading books: “Even those who believed that television would not entirely eradicate book reading were still deeply concerned by the changes it might impose on reading itself” (6). She uses these examples to argue for the theme of history repeating itself. This same argument is going on today, just with the latest technologies like iPads and smartphones instead of tvs and radios. Her main point here is that new media neither have nor will replace printed books—that the book is not dead.
+
+The second part to Murphy’s argument involves the assumptions about the future of the book. She addresses one myth of new media that Gitelman and Pingree discuss in their article, “What’s New About New Media?”: the myth of supercession. This would indicate that a new technology replaces an old one; that there is a linear progression with each new technology, and each one increasingly improves in quality. Murphy highlights this point as one assumption of future books, but she argues that new media and printed books are not necessarily mutually exclusive. Challenging the myth of supercession, she writes how even though “some [media] have been profoundly altered from their original form,” “History has thus far shown that no new medium has ever completely replaced an earlier medium” (8). Yes, the consumer has a choice of whether to buy an e-book or its print version, but this does not mean that the newer technology will replace the older one.
+
+This speaks to the nature of printed digital cultures overall—new media are not strictly progressive, but rather they change the culture overall simply by adding to it. However, they do change the understanding of author and narrator. Murphy cites Uzanne, saying, “Men of letters will not be called Writers… but rather, Narrators” (5). What about being both author and narrator? Even novels from the early nineteenth century had both an author and narrator. She is speaking specifically of the phonograph, but Uzanne’s argument seems to be mistaken in assuming one meaning for the terms “author” and “narrator”.
+
+Additionally, Murphy points to how new media inspire social change, especially when discussing the phonograph. “Libraries will be transformed into phonographotecks,” she says, citing Uzanne. Well, that didn’t exactly happen. This is more of a question than a confusion: what is this relationship between the development of a new media and social change? Some are obvious—smart phones have led to constant and mobile communication. What are some possibilities for future social change, particularly in more discreet ways?
+
+I love this next sentence so much that I had to include it here, though I also think it refers to the simultaneous resistance individuals have to new media, as well as the fast-paced nature of technological development today. “Only Twinkie-charged insomniac dweebs like to read on the screen” (8). Wow. What a description. Murphy is describing the concept of convergence—the idea that a new medium (perhaps an e-reader in this case) combines with an existing medium (a printed book) to form something new. The originator of this clever sentence clearly does not like the “something new” part.  Is this simultaneous resistance and fast-paced development always present with new media? Will there always be someone to call out the “Twinkie-charged insomniac dweeb”?

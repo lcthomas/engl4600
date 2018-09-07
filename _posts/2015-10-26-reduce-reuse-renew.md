@@ -1,0 +1,45 @@
+---
+id: 452
+title: Reduce, Reuse, Renew?
+date: 2015-10-26T15:56:17+00:00
+author: kristinatoney
+layout: post
+guid: http://lindsaythomas.net/engl4600/?p=452
+permalink: /2015/10/26/reduce-reuse-renew/
+categories:
+  - Response 8
+---
+In his article, “Books in the Age of the iPad,” Craig Mod seeks to examine the uses and roles of print books in our culture in relation to that of digitized ones and how the iPad plays a role in how he feels we should revamp the printing process for different printed works. He states that the book, those paperbacks that we all hold so dear, have, in a way, become &#8220;disposable,&#8221; much like the network that manufactures and distributes them (Mod). As a solution to this conundrum, Mod proposes new criteria for printing and the affordances the iPad brings to reading, and the meaning inherent in printed works in general.
+
+Mod makes three key points in his article, including the following:
+
+  1. Mod first makes the comment that content of printed works is just as important, if not more so in this case, than the physical form of the book. He defines two types of content: &#8220;formless&#8221; and &#8220;definite&#8221; (Mod). He notes that novels and non-fiction works are the kinds of things that would constitute formless content, or content that “can be reflowed into different formats and not lose any intrinsic meaning” (Mod). This kind of content is focused on just that, the content, the relation of plot, characters, and setting of a work that can in essence, be transported across media and retain relatively identical levels of intrinsic value. Definite content on the other hand, consists of content “composed with images, charts, graphs&#8230;It may be reflowable, but depending on how it’s reflowed, inherent meaning and quality of the text may shift;” this calls back to our discussion on how materiality of the page matters in perception of a work (Mod). Works of “definite content” depend more highly on their structure than those that are “formless” in nature. Their very ability to communicate accurately with readers is dependent on how their content is displayed on the page. Even so, Mod notes that the key difference between these two kinds of content lies in how the words on the page work with the medium of the page. He states:
+
+> Formless Content doesn’t see the page or its boundaries. Whereas Definite Content is not only aware of the page, but embraces it. It edits, shifts and resizes itself to fit the page. In a sense, Definite Content approaches the page as a canvas — something with dimensions and limitations — and leverages these attributes to both elevate the object and the content to a more complete whole (Mod).
+
+Thus, I believe it can be said that definite content has more regard for the book, for the page, as a platform, a forum, of expression and communication with the world. It knows what barriers and benefits arises form the material form it has been given and how to navigate those waters with great skill. Formless content is not as self-aware, functioning within this space seemingly without question
+
+<ol start="2">
+  <li>
+    With the importance of the container in mind, Mod transitions to discuss the material affordances allotted to readers by the iPad and how this has changed how books are published. He also notes that this may result in a new manner of thinking about printed books. Many people object to the digitization of novels or books in general because it is not as comfortable or familiar an experience as reading a traditionally printed work. We as a society are so fiercely loyal to this reading practice that this proposed change is one that Mod expects to be met with opposition. To this, he says that these material inhibitors of the iPad are only temporary and the benefits of such a shift will far outweigh them soon enough, stating that
+  </li>
+</ol>
+
+> [i]mportant to note is that these aren’t complaints about the text losing meaning. Books don’t become harder to understand, or confusing just because they’re digital. It’s mainly issues concerning quality. One inevitable property of the quality argument is that technology is closing the gap (through advancements in screens and batteries) and because of additional features (note taking, bookmarking, searching), will inevitably surpass the comfort level of reading on paper (Mod).
+
+iPads will make the transmission of narrative, of general content, easier by eliminating the sometimes stringent practice of turning a page. This ease of access may allow us to become more immersed in the very content that Mod says is so important. We have greater opportunity to become one with the very thing we love so much: books. Though the material format will change, these changes are ones that will move society forward, at least according to Mod, in a very beneficial way. In altering printing in this way, we give books new life, new position. The formless content that would be digitized may then enjoy a closer relationships with the reading community, while definite content will embark on either path, both of which result in novel and powerful relationships with readers.
+
+<ol start="3">
+  <li>
+    The last main point Mod makes begins with his questioning of the idea that books are dead. In response to this, Mod says no, books are not dead; however, the way in which we decide what is printed is or should be nearing the end of its days. Moving forward, he suggests that all formless content should be printed only digitally, while definite content should be given a choice; some may be printed physically, while others will follow the path of digitization. This, he states, would make print mean something again as they exist as physical media; books would be invested with the esteem they deserve. I really admire this sentiment of respect for books. He outlines certain criteria for which books will be printed, noting that the ones that will be made into these physical objects must “embrace their physicality,” be confident in form and usage of material,” “exploit the advantages of print,” and be “built to last” (Mod). These books would, I believe, be of “definite content,” and work in the ways noted earlier in this post, elevating the nature of both the practice of writing/creating books and of reading them as well. Mod notes that making this process of gaining access to the physical process of being printed much more rigorous will imbue the printed books with a greater degree of honor that will carry through generations, and our experience reading them will be ones of greater affective power in terms of how books mentally and emotionally work in and with readers. This “new canvas” of the iPad will, according to Mod, is one we should embrace as creators and consumers of books out of service to those very printed artifacts (Mod). Mod appears to say then, that our culture of reading will be all the better for it.
+  </li>
+</ol>
+
+After reading this article, I have two questions/areas of confusion I would like clarification on.
+
+  1. Mod appears to have divorced digital content from its existence as “printed” work. That designation seems to only pertain to books that exist as physical objects, and this to me, was puzzling. I was curious to learn more as to his reasoning behind such a distinction, if indeed it was one he was making in the construction of this article.
+  2. There also seemed to be a certain value judgment, or at least the support of a culture of print that assigns some sort of value to creators of certain content and that content as opposed to others. Part of it appears to be rooted in being environmentally conscious of the resources that are necessary to the printing process, but something about this privileging of certain texts over others confuses me, or maybe even simply rubs me the wrong way, as if there is some sort of test of validity creators and creations of books/printed works will have to pass in order to earn the honor of being printed. Mod outlines such distinctions, and I have discussed them earlier in this post, but I would very much enjoy learning more about the specifics that exist in each of this criteria and how they would be put into practice if society was indeed to move in this direction in terms of printing practices.
+
+I would like to pose the following question:
+
+If we are to move towards this proposed method of printing distinctions, are we in any way going to be alienating a portion of the population, or the potential population, of readers? This technology may only be easily accessible in certain parts of the world, and if the publishing/printing process moves in this direction, what will the end result be on a larger scale? What then, would be the impact on “reading culture” if accessibility would be impeded in this way, if it is at all?
